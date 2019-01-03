@@ -7,4 +7,4 @@ getObjectProperty(nextProps.ourObject, 'startDate', null, true) // date
 
 dates are converted using moment js library -> https://momentjs.com/
 
-Feel free to use in in your project
+Feel free to use in in your project :)
